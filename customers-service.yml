@@ -1,1 +1,6 @@
 message: Yahooo! Hello World From Customers Service!! :)
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl.defaultZone: http://eurekaserver:8761/eureka
