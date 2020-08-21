@@ -1,1 +1,6 @@
 message: Yahooo! Hello World From Vets Service!! :)
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl.defaultZone: http://eureka-server:8761/eureka
