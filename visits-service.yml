@@ -1,4 +1,4 @@
-message: Yahooo! Hello World From Visits Service!! :)
+message: Yahooo! Hello World From Visits Service!! :P
 eureka:
   client:
     registerWithEureka: true
