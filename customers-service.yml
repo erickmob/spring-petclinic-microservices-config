@@ -1,4 +1,5 @@
 message: Yahooo! Hello World From Customers Service!! :D
+management.endpoints.web.exposure.include=*
 eureka:
   client:
     registerWithEureka: true
