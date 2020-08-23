@@ -1,4 +1,4 @@
-message: Yahooo! Hello World From Customers Service!! :D
+message: Yahooo! Hello World From Customers Service!! :D - 
 eureka:
   client:
     registerWithEureka: true
